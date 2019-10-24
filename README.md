@@ -13,7 +13,7 @@ given in the paper.
 
 ## Usage 
 The `cfg_antnet.py` module has the model and training configuration in the form
-of `dict`. These can be passed to a training module to initialize the
+of `dict`. This module can be passed to a training module to initialize the
 model and kickstart training. An example module `train.py` is given for reference
 and can be used as follows:
 ```python
@@ -21,5 +21,5 @@ python3 train.py --cfg cfg_antnet.py
 ```
 
 ## Contribution
-I have tried my best to implement the architecture, though if someone finds a 
-bug, please feel free to write an issue.
+Please feel free to write an issue in case you find a bug. Additional recommendations
+for features are welcome too!
