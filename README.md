@@ -5,6 +5,7 @@ architecture given in [ANTNets](https://arxiv.org/abs/1904.03775).
 ## Implementation comparison
 The following model comparison is with reference to the ANTNet for ImageNet as 
 given in the paper.
+
 | Parameter | Official | Ours |
 | ---------- | -------- | ----- |
 | Number of parameters (g = 1) | 3.7M | 3.81M |
